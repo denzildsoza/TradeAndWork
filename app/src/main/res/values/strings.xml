@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WorknTrade</string>
+    <string name="Level">Enter Level</string>
+    <string name="c_p">Support/Resistance</string>
+    <string name="quantity">Number of Lots</string>
+    <string name="Target">Set Target</string>
+    <string name="Type">Select Type</string>
+    <string name="Place_Order">Place Order</string>
+</resources>
